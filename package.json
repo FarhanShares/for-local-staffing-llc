@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["farhan israq", "fullstack", "fullstack-typescript", "farhanshares"],
+  "keywords": [
+    "farhan israq",
+    "fullstack",
+    "fullstack-typescript",
+    "farhanshares"
+  ],
   "author": "Farhan Israq",
   "license": "ISC"
 }

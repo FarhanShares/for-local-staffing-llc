@@ -1,5 +1,7 @@
 {
-    "cSpell.words": [
-        "farhans"
-    ]
+  "cSpell.words": ["farhans"],
+  "[vue]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

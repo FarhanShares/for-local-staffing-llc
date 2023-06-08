@@ -15,6 +15,7 @@ export default defineNuxtModule({
     // add the helper plugin
     addPlugin(resolve('lib/plugins/helper.ts'))
 
+
     // add animate.css file from animate.css library
     nuxt.options.css.push('animate.css')
   },
