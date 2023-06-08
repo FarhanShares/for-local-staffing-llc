@@ -10,6 +10,7 @@ importers:
       '@nuxtjs/eslint-config-typescript': ^12.0.0
       '@nuxtjs/eslint-module': ^4.1.0
       '@nuxtjs/tailwindcss': ^6.7.0
+      '@tailwindcss/typography': ^0.5.9
       '@typescript-eslint/parser': ^5.59.9
       eslint: ^8.42.0
       eslint-config-prettier: ^8.8.0
@@ -24,6 +25,7 @@ importers:
       '@nuxtjs/eslint-config-typescript': 12.0.0_tizxnkcvjrb4cldxgwq5h3lj5u
       '@nuxtjs/eslint-module': 4.1.0_eslint@8.42.0
       '@nuxtjs/tailwindcss': 6.7.0
+      '@tailwindcss/typography': 0.5.9
       '@typescript-eslint/parser': 5.59.9_tizxnkcvjrb4cldxgwq5h3lj5u
       eslint: 8.42.0
       eslint-config-prettier: 8.8.0_eslint@8.42.0
@@ -1618,6 +1620,17 @@ packages:
 
   /@sinclair/typebox/0.25.24:
     resolution: {integrity: sha512-XJfwUVUKDHF5ugKwIcxEgc9k8b7HbznCp6eUfWgu710hMPNIO4aw4/zB5RogDQz8nd6gyCDpU9O/m6qYEWY6yQ==}
+    dev: true
+
+  /@tailwindcss/typography/0.5.9:
+    resolution: {integrity: sha512-t8Sg3DyynFysV9f4JDOVISGsjazNb48AeIYQwcL+Bsq5uf4RYL75C1giZ43KISjeDGBaTN3Kxh7Xj/vRSMJUUg==}
+    peerDependencies:
+      tailwindcss: '>=3.0.0 || insiders'
+    dependencies:
+      lodash.castarray: 4.4.0
+      lodash.isplainobject: 4.0.6
+      lodash.merge: 4.6.2
+      postcss-selector-parser: 6.0.10
     dev: true
 
   /@trysound/sax/0.2.0:
@@ -5358,6 +5371,10 @@ packages:
     resolution: {integrity: sha512-xYHt68QRoYGjeeM/XOE1uJtvXQAgvszfBhjV4yvsQH0u2i9I6cI6c6/eG4Hh3UAOVn0y/xAXwmTzEay49Q//HA==}
     dev: false
 
+  /lodash.castarray/4.4.0:
+    resolution: {integrity: sha512-aVx8ztPv7/2ULbArGJ2Y42bG1mEQ5mGjpdvrbJcJFU3TbYybe+QlLS4pst9zV52ymy2in1KpFPiZnAOATxD4+Q==}
+    dev: true
+
   /lodash.debounce/4.0.8:
     resolution: {integrity: sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow==}
     dev: true
@@ -6908,6 +6925,14 @@ packages:
     dependencies:
       postcss: 8.4.24
       postcss-value-parser: 4.2.0
+    dev: true
+
+  /postcss-selector-parser/6.0.10:
+    resolution: {integrity: sha512-IQ7TZdoaqbT+LCpShg46jnZVlhWD2w6iQYAcYXfHARZ7X1t/UGhhceQDs5X0cGqKvYlHNOuv7Oa1xmb0oQuA3w==}
+    engines: {node: '>=4'}
+    dependencies:
+      cssesc: 3.0.0
+      util-deprecate: 1.0.2
     dev: true
 
   /postcss-selector-parser/6.0.13:

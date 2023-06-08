@@ -19,6 +19,13 @@ module.exports = {
       // fontFamily: {
       //   sans: ['Poppins'],
       // },
+      typography: {
+        DEFAULT: {
+          css: {
+            maxWidth: '100ch', // add required value here
+          },
+        },
+      },
     },
   },
 }

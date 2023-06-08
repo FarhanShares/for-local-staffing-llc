@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-  <div class="py-6 border-b border-orange-400">
+  <div class="relative z-10 py-6 border-b border-orange-400">
     <nav class="px-14">
       <div class="flex justify-between items-center">
         <div class="flex flex-col gap-6">
