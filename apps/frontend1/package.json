@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "frontend1",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --port=3010",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.11"
+  },
+  "dependencies": {
+    "frontend-module": "workspace:^1.0.0"
+  }
+}

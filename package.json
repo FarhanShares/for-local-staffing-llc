@@ -1,0 +1,12 @@
+{
+  "name": "farhan-israq-s-application",
+  "version": "1.0.0",
+  "description": "This is a monorepo of fullstack-typescript apps. I would be using it to demonstrate a pinch of my skills for a new role.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["farhan israq", "fullstack", "fullstack-typescript", "farhanshares"],
+  "author": "Farhan Israq",
+  "license": "ISC"
+}
