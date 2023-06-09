@@ -21,8 +21,26 @@ useHead({
       monorepo.
       <br />
       We can scale easily. Not too bad!
+
+      <br />
+      <br />
+
+      <ul class="text-base">
+        <li>These apps are all running in the docker containers</li>
+        <li>I've used NGINX to do the reverse proxies</li>
+        <li>
+          This could have been an auth service (e.g.
+          auth-localstaffing-llc.farhanshares.com)
+        </li>
+        <li>
+          I would have love to demonstrate more (e.g. an auth api service)
+          however due to limited time, this is what I was able to do so far.
+        </li>
+      </ul>
     </div>
 
-    <farhans-button class="mt-10"> Get Back to App 1 </farhans-button>
+    <nuxt-link href="https://for-localstaffing-llc.farhanshares.com">
+      <farhans-button class="mt-10"> Get Back to App 1 </farhans-button>
+    </nuxt-link>
   </div>
 </template>
