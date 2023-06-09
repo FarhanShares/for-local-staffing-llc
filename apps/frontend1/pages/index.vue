@@ -96,9 +96,9 @@
         Absolutely! As a full-stack developer, I excel in developing REST APIs
         and handling dev-ops tasks. I know how to use Docker, Nginx or CI/CD in
         production server. Laravel is my preferred PHP framework for backend
-        development, while Express.js is my go-to choice for Node.js. I've also
-        started exploring Koa.js, thanks to your guidance via articles. I am
-        well-versed in testing methodologies like TDD. I have some
+        development. I've started exploring Express.js and Koa.js, thanks to
+        your guidance via articles. I am well-versed in testing methodologies
+        like TDD. I have some
         <a
           target="_blank"
           rel="noopener noreferrer"
