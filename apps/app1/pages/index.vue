@@ -91,6 +91,44 @@ useHead({
       Mobility Sharing SAAS App, RateItAll is a social network for reviewing any
       topics.
 
+      <h3 class="text-lg font-medium leading-tight">Okay, But Why Me?</h3>
+
+      <ul>
+        <li>
+          <code>Vue / Nuxt</code> and a bit of <code>React</code> - I've been in
+          the team leading roles for the past two years where I've worked for
+          long term for crafting the best scalable & maintainable projects.
+        </li>
+        <li>
+          <code>Covering every design details</code> - frontend is what I'm
+          mostly doing almost everyday, be it Figma / Sketch to HTML or An App
+          that needs to talk with the backend, I'm there to code it right.
+        </li>
+        <li>
+          <code>A sense of modern UI/UX</code> - Be it challenging or crazier, I
+          would crave to pay attention to the UI/UX. If my project manager
+          wants, I might also provide necessary comments so maybe sometimes an
+          overlooked things don't get in wrong way.
+        </li>
+        <li>
+          <code>Best practices everywhere</code> - If it has been just done in
+          an okayish working way, the pain in maintaining a bad code is a pure
+          evil pain. I study almost always to get what it is that can also
+          provide a better Developer Experience.
+        </li>
+        <li>
+          <code>Already working remotely in similar role</code> - I've been in
+          the teams before following Agile and also with teams with much simpler
+          methods. I can adopt very quickly.
+        </li>
+        <li>
+          <code>A Clear Communication</code> - I believe communication is way
+          more important than just coding. I thrive hard to maintain it. I'm
+          grateful to the seniors and collogues for their support, specially
+          when I'm stuck and I reach out to them.
+        </li>
+      </ul>
+
       <h3 class="text-lg font-medium leading-tight">Hmm, anything else?</h3>
       <p>
         Tech is something where I find joy, I've spent times on learning the
@@ -106,11 +144,11 @@ useHead({
       </h3>
       <p>
         Absolutely! As a full-stack developer, I excel in developing REST APIs
-        and handling dev-ops tasks. I know how to use Docker, Nginx or CI/CD in
-        production server. Laravel is my preferred PHP framework for backend
-        development. I've started exploring Express.js and Koa.js, thanks to
-        your guidance via articles. I am well-versed in testing methodologies
-        like TDD. I have some
+        and handling dev-ops tasks. I also know how to use Docker, Nginx or
+        CI/CD in production server. Laravel is my preferred PHP framework for
+        backend development. I've started exploring Express.js and Koa.js,
+        thanks to your guidance via articles. I am well-versed in testing
+        methodologies like TDD. I have some
         <a
           target="_blank"
           rel="noopener noreferrer"
@@ -123,8 +161,8 @@ useHead({
       <h3 class="text-lg font-medium leading-tight">After Hours</h3>
       <ul>
         <li>
-          I also try and keep learning, for example I am learning Python, and,
-          recently learnt Dart / Flutter -
+          I also try and keep learning continuously, for example I am learning
+          Python now, and, recently learnt Dart / Flutter -
           <a
             target="_blank"
             rel="noopener noreferrer"
@@ -140,7 +178,7 @@ useHead({
         </li>
       </ul>
 
-      <hr class="my-10 border-t border-gray-200" />
+      <hr class="mt-t mb-10 border-t border-gray-200" />
       <p>
         There is a bunch more I would love to talk about, but I hope I've
         already convinced you <em>enough</em> to start a conversation. I am
