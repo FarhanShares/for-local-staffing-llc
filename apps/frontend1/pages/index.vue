@@ -84,9 +84,9 @@
         Tech is something where I find joy, I've spent times on learning the
         principles like a CS graduate would do. Operating System, Computer
         Networking, Filesystem, Database, DSA, Coding Patterns (e.g. Proxy,
-        Builder, Facade), Principles (e.g. DRY, SOLID, KISS, YAGNI) — I've tried
-        my best to get a good grip in it. I often do problem solving and lately
-        started leetcoding to sharpen my logical thinking.
+        Builder, Facade etc.), Principles (e.g. DRY, SOLID, KISS, YAGNI etc.) —
+        I've tried my best to get a good grip in it. I often do problem solving
+        and lately started leetcoding to sharpen my logical thinking.
       </p>
 
       <h3 class="text-lg font-medium leading-tight">
@@ -97,8 +97,8 @@
         and handling dev-ops tasks. I know how to use Docker, Nginx or CI/CD in
         production server. Laravel is my preferred PHP framework for backend
         development, while Express.js is my go-to choice for Node.js. I've also
-        explored Koa.js, thanks to your guidance. I am well-versed in testing
-        methodologies like TDD. I have some
+        started exploring Koa.js, thanks to your guidance via articles. I am
+        well-versed in testing methodologies like TDD. I have some
         <a
           target="_blank"
           rel="noopener noreferrer"
