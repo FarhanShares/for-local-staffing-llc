@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "frontend1",
+  "name": "app1",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev --port=3010",
+    "dev": "nuxt dev --host=0.0.0.0 --port=3010",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
