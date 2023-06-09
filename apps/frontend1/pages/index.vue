@@ -30,19 +30,21 @@
         Imagine this: back in 2012, as a teenager, I created my Facebook account
         out of pure curiosity. Little did I know that this simple act would
         ignite my passion for coding. I wondered, and Googled, "How Facebook and
-        other Websites were created!" I embarked on a self-guided journey,
+        other Websites are created!" I embarked on a self-guided journey,
         learning PHP, HTML, CSS and a bit of MySQL in my 10th grade. What began
         as a hobby transformed into a relentless pursuit of knowledge and
         problem-solving skills. Today, as I'm graduating as a veterinary doctor.
       </p>
 
-      <h3 class="text-lg font-medium leading-tight">Why Life Science?</h3>
+      <h3 class="text-lg font-medium leading-tight">Wait, Why Life Science?</h3>
       <p>
         I was loving every moment of my self-taught journey. No rigid
         tech-syllabus held me back. I decided to delve into the fascinating
-        realm of life-science, driven purely by my passion for exploration. Back
-        then, making money was never my focus; it was all about following my
-        heart's desire for knowledge and pure enjoyment.
+        realm of life-science for exploration of how biology ticks. For me,
+        programming was driven purely by my passion, a hobby, which I wanted to
+        grow in my dream way. Back then, making money was never my intention; it
+        was all about following my heart's desire for knowledge and pure
+        enjoyment.
       </p>
 
       <h3 class="text-lg font-medium leading-tight">How it went?</h3>
@@ -64,10 +66,18 @@
         >. However, <code>Javascript</code> soon became (and still it is) the
         trend, it can do all the fancy stuffs and everyone was adopting it
         quickly, so did I. Initially, I started with <code>ReactJS</code> then
-        <code>VueJS</code>. I got hired for mid-level to lead positions as a
-        Frontend Developer Role (VueJS) at different organizations from local
-        and beyond border, counting 3+ years.
+        switched to <code>VueJS</code>. I got hired for mid-level to leading
+        positions as a Frontend Developer (VueJS) at different organizations
+        from local and beyond border, counting 3+ years.
       </p>
+
+      <div class="flex gap-5">
+        <img class="w-1/2" src="/otoride-1.png" alt="OTORide" />
+        <img class="w-1/2" src="/rateitall-1.png" alt="RateItAll" />
+      </div>
+      OTORide & RateItAll are my recent successful projects. OTORide is an IOT
+      Mobility Sharing SAAS App, RateItAll is a social network for reviewing any
+      topics.
 
       <h3 class="text-lg font-medium leading-tight">Hmm, anything else?</h3>
       <p>
@@ -77,6 +87,25 @@
         Builder, Facade), Principles (e.g. DRY, SOLID, KISS, YAGNI) — I've tried
         my best to get a good grip in it. I often do problem solving and lately
         started leetcoding to sharpen my logical thinking.
+      </p>
+
+      <h3 class="text-lg font-medium leading-tight">
+        Listening..but full-stack?
+      </h3>
+      <p>
+        Absolutely! As a full-stack developer, I excel in developing REST APIs
+        and handling dev-ops tasks. I know how to use Docker, Nginx or CI/CD in
+        production server. Laravel is my preferred PHP framework for backend
+        development, while Express.js is my go-to choice for Node.js. I've also
+        explored Koa.js, thanks to your guidance. I am well-versed in testing
+        methodologies like TDD. I have some
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-gray-100 underline"
+          href="https://github.com/FarhanShares/laravel-mediaman/tree/main/tests"
+          >Unit Tests Here</a
+        >.
       </p>
 
       <h3 class="text-lg font-medium leading-tight">After Hours</h3>
