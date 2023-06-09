@@ -1,6 +1,8 @@
 <template>
   <div class="bg-image">
-    <div class="flex justify-center items-center w-screen h-screen md:py-16">
+    <div
+      class="flex justify-center items-center w-screen h-screen py-8 md:py-16"
+    >
       <div
         class="relative w-full h-full flex flex-col max-w-5xl rounded-2xl shadow-lg text-white bg-black bg-opacity-80 backdrop-filter backdrop-blur-lg"
       >

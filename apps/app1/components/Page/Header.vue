@@ -9,7 +9,7 @@
         </div>
 
         <img
-          class="w-40 h-40 p-1 transform -rotate-1 bg-gray-300 rounded-full shadow-lg"
+          class="absolute -top-8 left-1/2 -translate-x-1/2 w-16 h-16 md:static md:w-40 md:h-40 p-1 transform -rotate-1 bg-gray-300 rounded-full shadow-lg"
           src="/farhan-israq-portrait.jpeg"
           alt="Farhan Israq"
         />

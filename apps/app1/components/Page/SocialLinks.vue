@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center space-x-12">
+  <div class="flex items-center justify-center md:justify-start space-x-12">
     <a href="https://linkedin.com/in/farhanshares" target="_blank">
       <svg
         class="h-6 w-6 text-white transform transition duration-300 hover:text-yellow-400 hover:scale-125"

@@ -12,8 +12,9 @@ useHead({
 
 <template>
   <div class="flex-1 py-4 overflow-hidden">
-    <!--  -->
-    <div class="px-4 w-full h-full overflow-auto prose prose-invert lg:px-12">
+    <div
+      class="px-4 w-full h-full overflow-x-hidden overflow-y-auto prose prose-invert lg:px-12"
+    >
       <h2 class="text-2xl font-medium leading-tight mt-5">Hi Masnun Bhai!</h2>
       <blockquote class="text-gray-300">
         Let's not forget to acknowledge the third person who remains concealed
@@ -87,9 +88,11 @@ useHead({
         <img class="w-1/2" src="/otoride-1.png" alt="OTORide" />
         <img class="w-1/2" src="/rateitall-1.png" alt="RateItAll" />
       </div>
-      OTORide & RateItAll are my recent successful projects. OTORide is an IOT
-      Mobility Sharing SAAS App, RateItAll is a social network for reviewing any
-      topics.
+      <blockquote>
+        OTORide & RateItAll are my recent successful projects. OTORide.Co is an
+        IOT Mobility Sharing SaaS App, RateItAll.Com is a social network for
+        reviewing any topics.
+      </blockquote>
 
       <h3 class="text-lg font-medium leading-tight">Okay, But Why Me?</h3>
 
@@ -138,6 +141,18 @@ useHead({
         I've tried my best to get a good grip in it. I often do problem solving
         and lately started leetcoding to sharpen my logical thinking.
       </p>
+
+      <div class="flex gap-5">
+        <img class="w-1/2" src="/followit-1.png" alt="Follow.it" />
+        <img class="w-1/2" src="/biyerprofile-1.png" alt="BiyerProfile.Com" />
+      </div>
+
+      <blockquote>
+        Follow.it is a feed burner alternative and BiyerProfile.Com is a
+        matrimonial flutter app, where I was actively involved in the
+        development. The mobile app is owned by me, I've created to solve a
+        problem and level up my skills.
+      </blockquote>
 
       <h3 class="text-lg font-medium leading-tight">
         Listening..but full-stack?
