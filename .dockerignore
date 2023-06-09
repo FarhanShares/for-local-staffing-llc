@@ -1,0 +1,7 @@
+apps/app1/.nuxt
+apps/app1/.output
+apps/app1/node_modules
+apps/app2/.nuxt
+apps/app2/.output
+apps/app2/node_modules
+node_modules

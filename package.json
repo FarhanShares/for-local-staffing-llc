@@ -4,7 +4,9 @@
   "description": "This is a monorepo of fullstack-typescript apps. I would be using it to demonstrate a pinch of my skills for a new role.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "boot-app-1": "cross-env NITRO_PORT=3300 node apps/app1/.output/server/index.mjs",
+    "boot-app-2": "cross-env NITRO_PORT=3400 node apps/app2/.output/server/index.mjs"
   },
   "keywords": [
     "farhan israq",
@@ -13,5 +15,8 @@
     "farhanshares"
   ],
   "author": "Farhan Israq",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
