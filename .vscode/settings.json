@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["composables", "farhans"],
+  "cSpell.words": ["composables", "farhans", "pinia"],
   "[vue]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
